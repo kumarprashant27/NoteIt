@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "note-it-1239",
+    "project_number": "648346251866",
+    "name": "Note It"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648346251866:android:5100de6c2582abe2",
+        "client_id": "android:com.prashant.noteit",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.prashant.noteit",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648346251866-14n06q28614ln5bh3ejtvch900jeue8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prashant.noteit",
+            "certificate_hash": "E954122562FF43F8C8DC5FDABF454081DAAA4D32"
+          }
+        },
+        {
+          "client_id": "648346251866-vho0d2kshlh8av94d1s2uhmumrrvkvva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
